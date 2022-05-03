@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magic Cards</string>
+
+    <string name="detail_head_pattern">Type: %s\nNumber: %s\nPower: %s\nRarity: %s</string>
+</resources>

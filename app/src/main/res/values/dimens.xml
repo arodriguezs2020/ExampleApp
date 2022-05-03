@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_huge">24dp</dimen>
+    <dimen name="margin_big">16dp</dimen>
+    <dimen name="margin_semi_big">12dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+
+    <dimen name="card_list_row_image_width">72dp</dimen>
+    <dimen name="card_list_row_image_height">100dp</dimen>
+</resources>
